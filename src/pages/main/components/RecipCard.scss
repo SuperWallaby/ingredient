@@ -1,0 +1,13 @@
+@import "../../../theme.scss";
+
+.recipCard {
+  &__rate {
+    margin-bottom: $padding-sm;
+  }
+  &__detail {
+    margin-bottom: $padding-lg;
+  }
+  &__tags {
+    line-height: 2;
+  }
+}

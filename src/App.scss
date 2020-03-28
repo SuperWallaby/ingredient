@@ -1,0 +1,7 @@
+@import "./theme.scss";
+
+.App {
+  &__body {
+    padding: $padding-lg 50px;
+  }
+}
